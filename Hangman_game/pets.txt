@@ -1,0 +1,7 @@
+dog
+cat
+bird
+fish
+snake
+spider
+lizard

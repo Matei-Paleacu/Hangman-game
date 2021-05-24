@@ -1,0 +1,7 @@
+pizza
+doughnuts
+apple
+bananas
+carrot
+cheese
+bread
