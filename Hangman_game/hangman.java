@@ -30,7 +30,7 @@ public class hangman {
           double double_Rand_Num = Math.random()*words.size();
           int random_number = (int)double_Rand_Num;
           word = words.get(random_number);
-          System.out.println(word+ " random word");
+//          System.out.println(word+ " random word");
     }
 
     public void sports_category(){
@@ -52,7 +52,7 @@ public class hangman {
           double double_Rand_Num = Math.random()*words.size();
           int random_number = (int)double_Rand_Num;
           word = words.get(random_number);
-          System.out.println(word+ " random word");
+ //         System.out.println(word+ " random word");
     }
 
     public void pets_category(){
@@ -74,7 +74,7 @@ public class hangman {
           double double_Rand_Num = Math.random()*words.size();
           int random_number = (int)double_Rand_Num;
           word = words.get(random_number);
-          System.out.println(word+ " random word");
+//          System.out.println(word+ " random word");
     }
 
     public void check_input(String user_input, char[] inwork_word){
